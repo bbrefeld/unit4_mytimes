@@ -107,6 +107,7 @@ main section {
 
 #tree {
   background-image: url("../images/tree.png");
+  margin-bottom: 80px;
 }
 
 #camera {
